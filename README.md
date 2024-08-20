@@ -23,11 +23,9 @@ The Cloud Cover Aggregation System is a Python-based solution designed to effici
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/your-repo/cloud-cover-aggregation.git
-Copy
 2. Install the required packages:
 pip install numpy scipy requests
-Copy
+
 ## Usage
 
 Here's a basic example of how to use the Cloud Cover Aggregator:
